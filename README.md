@@ -308,11 +308,21 @@ Additional Reports:
 
  - Insights into how different subscription types perform over time, including trends in renewals and cancellations, allowing for data-driven decision-making in subscription management.
 - Interactive Analysis:
+   - The inclusion of slicers for users to filter data dynamically, enabling deeper dives into specific segments or time frames for more granular insights.
+![Screenshot (70)](https://github.com/user-attachments/assets/d8dc9464-800b-4963-88e8-83f01a33003a)
+![Screenshot (71)](https://github.com/user-attachments/assets/faeb5b4a-6021-46be-87e8-fa893b87e866)
 
- - The inclusion of slicers for users to filter data dynamically, enabling deeper dives into specific segments or time frames for more granular insights.
 #### Overall Insights
 - By combining these analyses, you can derive actionable insights that may include:
 - Target markets for new subscription offerings or marketing campaigns.
 - Understanding factors contributing to customer churn and strategies to mitigate them.
 - Insights into pricing strategies based on popular subscription types and revenue analysis.
 - Recommendations for improving customer retention and satisfaction based on average subscription duration and cancellation trends.
+- 
+![Screenshot (72)](https://github.com/user-attachments/assets/6782a358-dfa8-4342-96b7-c39573fc0b57)
+![Screenshot (73)](https://github.com/user-attachments/assets/94b65a47-435e-4053-83a7-764a2a7c29ae)
+![Screenshot (74)](https://github.com/user-attachments/assets/29c17365-7a72-4025-860c-4dd37c0f0c51)
+![Screenshot (75)](https://github.com/user-attachments/assets/a768747d-8cd8-41b2-bf93-2b7a4021571c)
+![Screenshot (76)](https://github.com/user-attachments/assets/821ae0b0-1ff7-412a-b45a-e3136a804924)
+![Screenshot (77)](https://github.com/user-attachments/assets/3ca951e4-9674-487f-b050-a0bbf959d367)
+![Screenshot (78)](https://github.com/user-attachments/assets/413361b0-d5de-4065-9df9-d17bc682a415)
